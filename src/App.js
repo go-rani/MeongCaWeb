@@ -11,6 +11,7 @@ class App extends Component {
           <h1 className="App-title">Welcome to React</h1>
         </header>
         <p className="App-intro">
+          소스트리로 커밋해보기
           To get started, edit <code>src/App.js</code> and save to reload.
         </p>
       </div>
